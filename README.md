@@ -1,1 +1,1 @@
-# Electromyography-EMG-Data-Analysis-and-Gesture-Prediction-using-Machine-Learning-Algorithms-
+# ELECTROMYOGRAPHY-EMG-Data-ANALYSIS-AND-GESTURE-PREDICTION-USING-MACHINE-LEARNING-ALGORITHMS-
